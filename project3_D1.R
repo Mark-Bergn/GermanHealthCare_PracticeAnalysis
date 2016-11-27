@@ -12,7 +12,6 @@ library(reshape2)
 library(ggplot2)
 
 setwd("C:/Users/markb/Desktop/Stats")
-dfile<-read.csv("Assignments/Project 3/german_healthcare_usage.csv")
 dfile.na<-read.csv("Assignments/Project 3/german_healthcare_usage.csv", header=T)
 #Dataing cleaning and Structure:  
   
